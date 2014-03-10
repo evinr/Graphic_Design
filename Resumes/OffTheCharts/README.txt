@@ -1,0 +1,1 @@
+This is the evolved version of my current resume. The bar charts were done using d3, as it was way easier to get the alignments down.

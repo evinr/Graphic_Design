@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="EvinRevelloResume2013a.pdf"
+   sodipodi:docname="EvinRevelloResume2013a.svg"
    inkscape:export-filename="C:\Users\Eight\Documents\GitHub\Graphic_Design\Resumes\OffTheCharts\EvinRevelloResume2013a.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85252525"
-     inkscape:cx="419.07947"
-     inkscape:cy="380.45352"
+     inkscape:zoom="0.60282639"
+     inkscape:cx="271.47224"
+     inkscape:cy="439.80346"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,6 +92,63 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-62.362183)">
+    <g
+       id="g4096"
+       transform="translate(6,2)">
+      <text
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4026"
+         y="259.2424"
+         x="-231.12305"
+         style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
+         xml:space="preserve"><tspan
+           y="259.2424"
+           x="-231.12305"
+           id="tspan4028"
+           sodipodi:role="line"><tspan
+             id="tspan5402"
+             style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light">Beginner </tspan></tspan></text>
+      <text
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4030"
+         y="219.57823"
+         x="-188.06148"
+         style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
+         xml:space="preserve"><tspan
+           style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
+           y="219.57823"
+           x="-188.06148"
+           id="tspan4032"
+           sodipodi:role="line">Novice</tspan></text>
+      <text
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4034"
+         y="179.77975"
+         x="-152.04333"
+         style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
+         xml:space="preserve"><tspan
+           style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
+           y="179.77975"
+           x="-152.04333"
+           id="tspan4036"
+           sodipodi:role="line">Proficient</tspan></text>
+      <text
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4038"
+         y="136.72467"
+         x="-109.70915"
+         style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
+         xml:space="preserve"><tspan
+           style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
+           y="136.72467"
+           x="-109.70915"
+           id="tspan4040"
+           sodipodi:role="line">Advanced</tspan></text>
+    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3010"
@@ -126,7 +183,7 @@
        xml:space="preserve"
        id="flowRoot3018"
        style="font-size:20.08379555px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
-       transform="matrix(0.81264234,0,0,0.81264234,450.89703,234.12507)"><flowRegion
+       transform="matrix(0.7261363,0,0,0.7261363,458.07916,311.78996)"><flowRegion
          id="flowRegion3020"><rect
            id="rect3022"
            width="375.77676"
@@ -136,22 +193,22 @@
            style="font-size:20.08379555px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold" /></flowRegion><flowPara
          id="flowPara3024"
          style="font-size:20.08379555px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold" /><flowPara
-         style="font-size:20.08379555000000100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
+         style="font-size:20.08379555px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
          id="flowPara4354" /><flowPara
          id="flowPara3026"
-         style="font-size:20.08379555000000100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold">A.S. Computer Science    2011</flowPara><flowPara
-         style="font-size:20.08379555000000100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
+         style="font-size:20.08379555px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold">A.S. Computer Science    2011</flowPara><flowPara
+         style="font-size:20.08379555px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
          id="flowPara3802">A.S. Mechatronics           2011</flowPara><flowPara
          id="flowPara3028"
-         style="font-size:20.08379555000000100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold" /></flowRoot>    <image
-       y="946.87274"
-       x="514.77618"
+         style="font-size:20.08379555px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold" /></flowRoot>    <image
+       y="944.52863"
+       x="512.2879"
        id="image4311"
        xlink:href="data:image/png;base64,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 RU5ErkJggg== "
-       height="27.756842"
-       width="200.70331" />
+       height="28.100965"
+       width="203.19159" />
     <flowRoot
-       transform="matrix(1.3390875,0,0,1.3390875,390.83496,-228.50267)"
+       transform="matrix(1.3390875,0,0,1.3390875,390.83496,-230.50267)"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#bdc3c7;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
        id="flowRoot3812"
        xml:space="preserve"><flowRegion
@@ -167,7 +224,7 @@
        xml:space="preserve"
        id="flowRoot3812-5"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#bdc3c7;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
-       transform="matrix(1.3390875,0,0,1.3390875,-60.938354,-228.55203)"><flowRegion
+       transform="matrix(1.3390875,0,0,1.3390875,-60.938354,-230.50267)"><flowRegion
          id="flowRegion3814-2"><rect
            id="rect3816-7"
            width="164.28572"
@@ -280,7 +337,7 @@
        xml:space="preserve"
        id="flowRoot4843-3"
        style="font-size:19.65945053px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
-       transform="matrix(0.82730027,0,0,0.82730027,-28.255928,217.61516)"><flowRegion
+       transform="matrix(0.82730027,0,0,0.82730027,-28.255928,215.26919)"><flowRegion
          id="flowRegion4845-3"><rect
            id="rect4847-7"
            width="108.50118"
@@ -293,7 +350,7 @@
        xml:space="preserve"
        id="flowRoot4843-2"
        style="font-size:19.65945053px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
-       transform="matrix(0.82730027,0,0,0.82730027,133.84676,215.45451)"><flowRegion
+       transform="matrix(0.82730027,0,0,0.82730027,133.84676,215.26919)"><flowRegion
          id="flowRegion4845-1"><rect
            id="rect4847-1"
            width="108.50118"
@@ -319,7 +376,7 @@
        xml:space="preserve"
        id="flowRoot4843-4-6"
        style="font-size:17.67773819px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
-       transform="matrix(0.75376114,0,0,0.75376114,-9.1084854,302.09547)"><flowRegion
+       transform="matrix(0.75376114,0,0,0.75376114,-9.1084854,300.10473)"><flowRegion
          id="flowRegion4845-0-6"><rect
            id="rect4847-6-6"
            width="108.50118"
@@ -332,7 +389,7 @@
        xml:space="preserve"
        id="flowRoot4843-4-8"
        style="font-size:17.67773819px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
-       transform="matrix(0.75376114,0,0,0.75376114,118.90053,301.06722)"><flowRegion
+       transform="matrix(0.75376114,0,0,0.75376114,118.90053,300.31822)"><flowRegion
          id="flowRegion4845-0-5"><rect
            id="rect4847-6-5"
            width="163.32298"
@@ -367,21 +424,7 @@
            y="917.0105"
            style="font-size:10.29743671px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond Premr Pro;-inkscape-font-specification:Garamond Premr Pro" /></flowRegion><flowPara
          style="font-size:10.29743671px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond Premr Pro;-inkscape-font-specification:Garamond Premr Pro"
-         id="flowPara4608">&quot;Evin is people-oriented and verbally fluent, it is these people skills that set her apart. She is great at creating enthusiasm in others!&quot;</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
-       x="-231.12305"
-       y="259.2424"
-       id="text4026"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4028"
-         x="-231.12305"
-         y="259.2424"><tspan
-           style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
-           id="tspan5402">Beginner </tspan></tspan></text>
-    <flowRoot
+         id="flowPara4608">&quot;Evin is people-oriented and verbally fluent, it is these people skills that set her apart. She is great at creating enthusiasm in others!&quot;</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2985"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
@@ -935,15 +978,15 @@
     <rect
        y="526.03021"
        x="-399.31317"
-       height="101.94056"
+       height="102.44116"
        width="32.361519"
        id="rect3205-0"
        style="fill:#3498db;fill-opacity:1;stroke:none"
        transform="matrix(0,-1,1,0,0,0)" />
     <rect
-       y="630.02454"
+       y="629.35065"
        x="-399.31317"
-       height="84.459076"
+       height="85.132988"
        width="32.361519"
        id="rect3205"
        style="fill:#1abc9c;fill-opacity:1;stroke:none"
@@ -996,19 +1039,6 @@
          id="tspan4014"
          sodipodi:role="line"
          style="font-size:21.87561417px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold">Design</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
-       x="-188.06148"
-       y="219.57823"
-       id="text4030"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4032"
-         x="-188.06148"
-         y="219.57823"
-         style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light">Novice</tspan></text>
     <rect
        x="-366.18323"
        y="44.301357"
@@ -1284,7 +1314,7 @@
     <rect
        x="-366.18323"
        y="629.27673"
-       width="221.37482"
+       width="186.77173"
        height="16.385864"
        style="fill:#1abc9c;fill-opacity:1"
        id="rect5171"
@@ -1292,7 +1322,7 @@
     <rect
        x="-366.18323"
        y="646.48187"
-       width="172.05157"
+       width="163.25418"
        height="16.385864"
        style="fill:#1abc9c"
        id="rect5173"
@@ -1300,7 +1330,7 @@
     <rect
        x="-366.18323"
        y="663.68707"
-       width="167.13582"
+       width="171.82776"
        height="16.385864"
        style="fill:#1abc9c"
        id="rect5175"
@@ -1321,19 +1351,6 @@
        style="fill:#1abc9c"
        id="rect5179"
        transform="matrix(0,-1,1,0,0,0)" />
-    <text
-       xml:space="preserve"
-       style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
-       x="-152.04333"
-       y="179.77975"
-       id="text4034"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4036"
-         x="-152.04333"
-         y="179.77975"
-         style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light">Proficient</tspan></text>
     <text
        sodipodi:linespacing="125%"
        style="font-size:12.28939819px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
@@ -1613,7 +1630,7 @@
        y="641.5661"
        font-size="15px"
        id="text5249"
-       transform="matrix(0,-1,1,0,0,0)">BRD</text>
+       transform="matrix(0,-1,1,0,0,0)">Human-Computer Interactions</text>
     <text
        sodipodi:linespacing="125%"
        style="font-size:12.28939819px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
@@ -1621,7 +1638,7 @@
        y="658.7713"
        font-size="15px"
        id="text5251"
-       transform="matrix(0,-1,1,0,0,0)">Human-Computer Interactions</text>
+       transform="matrix(0,-1,1,0,0,0)">BRD's</text>
     <text
        sodipodi:linespacing="125%"
        style="font-size:12.28939819px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
@@ -1646,19 +1663,6 @@
        font-size="15px"
        id="text5257"
        transform="matrix(0,-1,1,0,0,0)">Graphic Design</text>
-    <text
-       xml:space="preserve"
-       style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light"
-       x="-109.70915"
-       y="136.72467"
-       id="text4038"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4040"
-         x="-109.70915"
-         y="136.72467"
-         style="font-size:11.09749126px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:HelveticaNeueLT Com 23 UltLtEx;-inkscape-font-specification:HelveticaNeueLT Com 23 UltLtEx Light">Advanced</tspan></text>
     <flowRoot
        transform="matrix(1.6301465,0,0,1.6301465,-684.59976,-140.50419)"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#bdc3c7;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT Bold"
@@ -1682,5 +1686,5 @@
            height="90.407455"
            x="503.4617"
            y="905.3985" /></flowRegion><flowPara
-         id="flowPara4163"></flowPara></flowRoot>  </g>
+         id="flowPara4163" /></flowRoot>  </g>
 </svg>

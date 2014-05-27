@@ -1,1 +1,1 @@
-This resume was one that I did for my ultra talented friend. I figure that it was there so why not give it a go. The focus was showing an increasing ammount of skill and responsibility. The landscape was dictated by the fact that the job history was greater than 3 or 4 and the resume was atypical so it was acceptable. 
+This is a resume that I created for a talented illustrator; it was my intention to provide a minimalist approach while maximizing the information being relayed. 

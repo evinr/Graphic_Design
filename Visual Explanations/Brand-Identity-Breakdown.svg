@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Brand-Identity-Breakdown.svg">
+   sodipodi:docname="Brand-Identity-Breakdown.svg"
+   inkscape:export-filename="C:\Users\Eight\Documents\GitHub\Graphic_Design\Visual Explanations\Brand-Identity-Breakdown.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="195.59925"
+     inkscape:cx="-139.77139"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,25 +74,28 @@
       <g
          transform="matrix(0,-1,1,0,-45.155806,940.78692)"
          id="g3010">
-        <path
-           sodipodi:type="arc"
-           style="color:#000000;fill:#95a5a6;fill-opacity:1;stroke:#000000;stroke-width:2.56496811;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path2985"
-           sodipodi:cx="547.14288"
-           sodipodi:cy="602.36218"
-           sodipodi:rx="178.57143"
-           sodipodi:ry="178.57143"
-           d="m 725.71431,602.36218 c 0,98.62228 -79.94915,178.57143 -178.57143,178.57143 -98.62227,0 -178.57142,-79.94915 -178.57142,-178.57143 0,-98.62227 79.94915,-178.57142 178.57142,-178.57142 98.62228,0 178.57143,79.94915 178.57143,178.57142 z"
-           transform="matrix(1.9493419,0,0,1.9493419,-689.42564,-741.84763)" />
-        <text
-           transform="translate(6.0609153,4.0406102)"
-           xml:space="preserve"
-           style="font-size:57.01271439px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
-           id="text3827"
-           sodipodi:linespacing="125%"><textPath
-             xlink:href="#path2985"
-             id="textPath3007"><tspan
+        <g
+           id="g3101">
+          <path
+             transform="matrix(1.9493419,0,0,1.9493419,-689.42564,-741.84763)"
+             d="m 725.71431,602.36218 c 0,98.62228 -79.94915,178.57143 -178.57143,178.57143 -98.62227,0 -178.57142,-79.94915 -178.57142,-178.57143 0,-98.62227 79.94915,-178.57142 178.57142,-178.57142 98.62228,0 178.57143,79.94915 178.57143,178.57142 z"
+             sodipodi:ry="178.57143"
+             sodipodi:rx="178.57143"
+             sodipodi:cy="602.36218"
+             sodipodi:cx="547.14288"
+             id="path2985"
+             style="color:#000000;fill:#95a5a6;fill-opacity:1;stroke:#000000;stroke-width:2.56496811;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3827"
+             style="font-size:57.01271439px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+             xml:space="preserve"
+             transform="translate(6.0609153,4.0406102)"><textPath
+               id="textPath3007"
+               xlink:href="#path2985"><tspan
    id="tspan3829">Identity</tspan></textPath></text>
+        </g>
       </g>
       <g
          transform="translate(3.6451294,8.08122)"
@@ -194,5 +200,85 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:49.06262207px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+       x="552.43958"
+       y="324.62509"
+       id="text3007"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3009"
+         x="552.43958"
+         y="324.62509">=</tspan></text>
+    <g
+       id="g3050"
+       transform="matrix(2.545337,0,0,2.545337,315.68086,189.40677)">
+      <path
+         id="path3012"
+         d="m 11.608,20.776 c -22.647,-12.354 -6.268,-27.713 0,-17.369 6.269,-10.344 22.649,5.015 0,17.369 z"
+         style="fill:#231f20;fill-rule:evenodd"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g3014">
+</g>
+      <g
+         id="g3016-1">
+</g>
+      <g
+         id="g3018">
+</g>
+      <g
+         id="g3020">
+</g>
+      <g
+         id="g3022">
+</g>
+      <g
+         id="g3024">
+</g>
+      <g
+         id="g3026-7">
+</g>
+      <g
+         id="g3028">
+</g>
+      <g
+         id="g3030">
+</g>
+      <g
+         id="g3032">
+</g>
+      <g
+         id="g3034">
+</g>
+      <g
+         id="g3036">
+</g>
+      <g
+         id="g3038">
+</g>
+      <g
+         id="g3040">
+</g>
+      <g
+         id="g3042">
+</g>
+    </g>
+    <path
+       id="path3092"
+       d="m 680.1535,288.02154 h -0.009 c 0,-5.27489 -4.27321,-9.5481 -9.5435,-9.5481 h -5.22894 c -0.28028,0 -0.54219,0.0551 -0.81788,0.0827 0.22515,0.76734 0.37218,1.6036 0.40894,2.52257 0.0414,0.96032 0.0322,1.92065 0.0597,2.88097 0.11028,-0.009 0.22975,-0.0322 0.34921,-0.0322 h 5.22894 c 2.25148,0 4.08942,1.83334 4.08942,4.09401 v 14.21186 c -3.55182,-3.70344 -8.53723,-6.01465 -14.07403,-6.01465 -7.65042,0 -14.25781,4.40646 -17.46042,10.81627 -0.13325,0.16082 -0.29867,0.29407 -0.42732,0.46408 -3.17504,-2.08147 -7.32419,-2.07228 -10.49004,0.0276 -0.14244,-0.19298 -0.33083,-0.34002 -0.48246,-0.52841 -3.20721,-6.38684 -9.80541,-10.78411 -17.44205,-10.78411 -5.5276,0 -10.51301,2.30202 -14.06483,5.99628 v -14.19808 c 0,-2.26067 1.83334,-4.09401 4.08942,-4.09401 h 5.23353 c 0.11487,0 0.22974,0.0184 0.34461,0.0322 0.0276,-0.96032 0.0184,-1.92065 0.0597,-2.88097 0.0413,-0.91897 0.18379,-1.75523 0.40894,-2.52257 -0.27569,-0.0276 -0.53301,-0.0827 -0.81329,-0.0827 h -5.23353 c -5.2657,0 -9.54351,4.27321 -9.54351,9.5481 v 20.18517 c 0,0.86842 0.12866,1.70009 0.34921,2.49959 -0.20677,0.77653 -0.34921,1.58063 -0.34921,2.42149 v 2.36635 c 0,0.0873 -0.0138,0.17001 -0.0138,0.25731 0,0.0873 0.0138,0.17001 0.0138,0.25731 v 0.92357 c 0.0138,-0.005 0.0322,-0.005 0.046,-0.009 0.61112,10.23732 9.08402,18.36101 19.47297,18.36101 10.78411,0 19.52811,-8.744 19.52811,-19.52811 0,-0.69841 -0.0414,-1.38764 -0.11028,-2.06768 0.11028,0.0322 0.23434,0.0506 0.34462,0.0873 v -0.63409 l 0.5376,-0.53759 c 1.599,-1.59442 4.1905,-1.59442 5.7895,0 l 0.47327,0.47327 c 0,0.0138 -0.005,0.0322 -0.005,0.0505 v 0.54219 c 0.11028,-0.0322 0.22974,-0.0368 0.34461,-0.0643 -0.0781,0.70302 -0.12406,1.42441 -0.12406,2.15039 0,10.78411 8.744,19.52811 19.52811,19.52811 10.7887,0 19.5327,-8.744 19.5327,-19.52811 0,-0.78572 -0.0643,-1.55765 -0.14703,-2.32039 0.046,0.0184 0.0965,0.0276 0.14703,0.0505 v -0.3538 c 0,-0.84546 -0.14244,-1.64496 -0.34921,-2.42149 0.22056,-0.79491 0.34921,-1.62658 0.34921,-2.4996 v -20.18057 z m -65.84418,42.49316 c -8.15586,0 -14.76325,-6.60739 -14.76325,-14.75866 0,-8.15585 6.60739,-14.76325 14.76325,-14.76325 8.15126,0 14.76325,6.6074 14.76325,14.76325 0,8.15127 -6.6074,14.75866 -14.76325,14.75866 z m 46.30688,0 c -8.14666,0 -14.76324,-6.60739 -14.76324,-14.75866 0,-8.15585 6.61198,-14.76325 14.76324,-14.76325 8.15586,0 14.76785,6.6074 14.76785,14.76325 -0.005,8.15127 -6.61199,14.75866 -14.76785,14.75866 z"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:49.06262207px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura Bk BT;-inkscape-font-specification:Futura Bk BT"
+       x="274.52975"
+       y="224.50833"
+       id="text3007-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3009-0"
+         x="274.52975"
+         y="224.50833">=</tspan></text>
   </g>
 </svg>

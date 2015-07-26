@@ -154,9 +154,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59202862"
-     inkscape:cx="447.55967"
-     inkscape:cy="344.60857"
+     inkscape:zoom="2.3681145"
+     inkscape:cx="612.24765"
+     inkscape:cy="172.3196"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -274,7 +274,7 @@
          id="flowPara20261"
          style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start">Sources:</flowPara><flowPara
          id="flowPara20263"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start">Estelle Wey • www.standardista.com/css3/css-specificity/</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start">Estelle Weyl • www.standardista.com/css3/css-specificity/</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="flowPara54577">Julia Dreams • creativemarket.com/juliabrnv/49296-Fish-marine-animals</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start"
@@ -10663,19 +10663,7 @@
         </g>
       </g>
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot55859-1-6-4-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.78992081px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion55861-2-8-1-1"><rect
-           id="rect55863-3-2-0-2"
-           width="156.15834"
-           height="104.95889"
-           x="802.97552"
-           y="868.77301"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.78992081px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara55865-2-8-1-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.78992081px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">1-0-0-0-0</flowPara></flowRoot>    <g
+    <g
        id="g35210"
        transform="matrix(0.84474798,0,0,0.84474798,59.235296,81.049178)">
       <flowRoot
@@ -60358,5 +60346,17 @@
          x="739.79517"
          y="721.25458"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.95089531px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">!important</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot55859-1-6-4-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.78992081px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion55861-2-8-1-1"><rect
+           id="rect55863-3-2-0-2"
+           width="156.15834"
+           height="104.95889"
+           x="802.97552"
+           y="868.77301"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.78992081px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara55865-2-8-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.78992081px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">1-0-0-0-0</flowPara></flowRoot>  </g>
 </svg>

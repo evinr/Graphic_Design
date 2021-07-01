@@ -41,6 +41,15 @@
        id="linearGradient18793"
        xlink:href="#linearGradient17055"
        inkscape:collect="always" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1185">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6.45683908px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 65.555062,799.02076 62.714892,944.816 H 556.90412 l -4.73363,57.7501 50.17629,-3.78688 112.66002,-29.3484 -63.43043,-192.18471 z"
+         id="path1187"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7050505"
-     inkscape:cx="365.70773"
-     inkscape:cy="215.14214"
+     inkscape:zoom="0.60282639"
+     inkscape:cx="359.07791"
+     inkscape:cy="567.03788"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,7 +95,7 @@
        xml:space="preserve"
        id="flowRoot1311"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(4.9765583,38.029077)"><flowRegion
+       transform="translate(4.9765583,48.029077)"><flowRegion
          id="flowRegion1313"><rect
            id="rect1315"
            width="219.55499"
@@ -97,8 +106,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">&quot;Evin is an incredibly passionate and talented engineer. She cares about and looks for solutions to problems rather than dwelling on the problems themselves. She is a wonderful team player who will immediately energize and better those with whom she works.  She is a valuable member of any project and company.&quot;</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3010"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com';text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0,-10)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com';text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3012"><rect
            id="rect3014"
            width="333.35034"
@@ -132,7 +140,7 @@
        xml:space="preserve"
        id="flowRoot3812-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#bdc3c7;fill-opacity:1;stroke:none"
-       transform="translate(-2.9308683e-4,-84)"><flowRegion
+       transform="translate(-2.9308683e-4,-74)"><flowRegion
          id="flowRegion3814-2"><rect
            id="rect3816-7"
            width="219.99295"
@@ -145,7 +153,7 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:condensed;line-height:0.01%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Light Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4787"
        xml:space="preserve"
-       transform="translate(0,-16)"><flowRegion
+       transform="translate(0,-6)"><flowRegion
          id="flowRegion4789"><rect
            y="749.46643"
            x="890.80371"
@@ -155,18 +163,18 @@
          id="flowPara4793"
          style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>    <text
        id="text4946"
-       y="1015.7461"
+       y="1025.7461"
        x="708.5835"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:condensed;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Light Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1015.7461"
+         y="1025.7461"
          x="708.5835"
          id="tspan4948"
          sodipodi:role="line"
          style="font-size:16px;line-height:1.25"> </tspan></text>
     <g
        style="opacity:0.98000004"
-       transform="matrix(0.9711155,0,0,0.9711155,597.71204,12.106657)"
+       transform="matrix(0.9711155,0,0,0.9711155,597.71204,22.106657)"
        id="g4633">
       <g
          transform="translate(0,-20)"
@@ -199,7 +207,7 @@
     </g>
     <g
        id="g4472"
-       transform="translate(74.822427,-16)">
+       transform="translate(74.822427,-6)">
       <flowRoot
          transform="matrix(0.82730027,0,0,0.82730027,-202.63282,215.26919)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
@@ -229,7 +237,7 @@
            id="flowPara4849-5"> Lead at Visa</flowPara></flowRoot>    </g>
     <g
        id="g3883"
-       transform="translate(61.32929,-27.445457)">
+       transform="translate(61.32929,-17.445457)">
       <flowRoot
          transform="matrix(0.82730027,0,0,0.82730027,84.025732,227.26919)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
@@ -259,7 +267,7 @@
            id="flowPara4849-5-6">Freelance Client</flowPara></flowRoot>    </g>
     <g
        id="g3865"
-       transform="translate(-30.875452,-27.445457)">
+       transform="translate(-30.875452,-17.445457)">
       <flowRoot
          transform="matrix(0.82730027,0,0,0.82730027,344.21022,227.26919)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
@@ -291,7 +299,7 @@
        xml:space="preserve"
        id="flowRoot2985"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:'Futura Bk BT';-inkscape-font-specification:'Futura Bk BT Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;stroke:none"
-       transform="matrix(1.9469994,0,0,1.9469994,-424.59282,-8.521641)"><flowRegion
+       transform="matrix(1.9469994,0,0,1.9469994,-424.59282,1.478359)"><flowRegion
          id="flowRegion2987"><rect
            id="rect2989"
            width="624.28571"
@@ -308,30 +316,30 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;letter-spacing:-0.69575846px;writing-mode:lr-tb;text-anchor:middle"
    id="flowSpan4950">Re</flowSpan>vello</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88617883;fill:#f3dc7f;fill-opacity:1;stroke:none"
-       x="709.76764"
-       y="102.84527"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.34749031px;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88617883;fill:#f3dc7f;fill-opacity:1;stroke:none;stroke-width:1.44562423"
+       x="711.86304"
+       y="119.41881"
        id="text3417"><tspan
          sodipodi:role="line"
-         id="tspan3419"
-         x="709.76764"
-         y="102.84527"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1">Evin@EvinRevello.com</tspan><tspan
+         x="711.86304"
+         y="123.92509"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:32.26813889px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.44562423"
+         id="tspan4189" /><tspan
          sodipodi:role="line"
-         x="709.76764"
-         y="144.09494"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1"
-         id="tspan4189">530 289 6898</tspan><tspan
+         x="711.86304"
+         y="156.13995"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:32.26813889px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.44562423"
+         id="tspan1155">530 289 6898</tspan><tspan
          sodipodi:role="line"
-         x="709.76764"
-         y="163.06021"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1"
+         x="711.86304"
+         y="183.55661"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:32.26813889px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.44562423"
          id="tspan4191" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3820"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#bdc3c7;fill-opacity:1;stroke:none"
-       transform="matrix(1.6301465,0,0,1.6301465,-643.52881,165.2963)"><flowRegion
+       transform="matrix(1.6301465,0,0,1.6301465,-643.52881,175.2963)"><flowRegion
          id="flowRegion3822"><rect
            id="rect3824"
            width="138.57143"
@@ -344,12 +352,12 @@
        transform="rotate(-90)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:condensed;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Heavy Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2c3e50;fill-opacity:1;stroke:#2c3e50;stroke-width:0.18844654;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-       x="-697.54053"
+       x="-707.54053"
        y="672.99207"
        id="text4336"><tspan
          sodipodi:role="line"
          id="tspan4338"
-         x="-697.54053"
+         x="-707.54053"
          y="672.99207"
          style="font-size:3.76893091px;line-height:1.25;stroke-width:0.18844654">--</tspan></text>
     <g
@@ -369,10 +377,908 @@
            width="719.32001"
            id="rect3881-8" /></flowRegion><flowPara
          id="flowPara3945-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <flowRoot
+       transform="matrix(0.93796941,0,0,0.93796941,-741.74768,635.75353)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
+       id="flowRoot3877-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3879-8"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
+           y="98.076462"
+           x="841.42859"
+           height="70.892334"
+           width="719.74579"
+           id="rect3881-0" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
+         id="flowPara3665">Jr Developer/Designer                                                                   </flowPara><flowPara
+         id="flowPara3893-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
+         id="flowPara3895-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
+         id="flowPara3897-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1">   </flowPara><flowPara
+         id="flowPara3901-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /><flowPara
+         id="flowPara3945-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <path
+       style="opacity:0.47000002;fill:none;stroke:#000000;stroke-width:0.48053929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.76647115, 5.76647115;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 46.593306,319.86414 H 714.4924"
+       id="path4095-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.47000002;fill:none;stroke:#000000;stroke-width:0.48053929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.76647115, 5.76647115;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 46.593306,258.6249 H 714.40476"
+       id="path4095-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.47000002;fill:none;stroke:#000000;stroke-width:0.48053929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.76647115, 5.76647115;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 46.593306,204.00367 H 714.41693"
+       id="path4095"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1;stroke:none"
+       x="-347.43936"
+       y="40.449631"
+       id="text4030"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4032"
+         x="-347.43936"
+         y="40.449631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1">Proficient</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1;stroke:none"
+       x="-284.88385"
+       y="40.303383"
+       id="text4034"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4036"
+         x="-284.88385"
+         y="40.303383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1">Advanced</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1;stroke:none"
+       x="-218.88319"
+       y="39.504631"
+       id="text4038"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4040"
+         x="-218.88319"
+         y="39.504631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1">Expert</tspan></text>
+    <rect
+       x="-434.06769"
+       y="46.868443"
+       width="171.69588"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1"
+       id="rect5103"
+       transform="rotate(-90)" />
+    <rect
+       y="46.868443"
+       x="-467.00815"
+       height="459.66199"
+       width="31.101961"
+       id="rect3205-9"
+       style="fill:#f1c40f;fill-opacity:1;stroke:none;stroke-width:1.15609896"
+       transform="rotate(-90)" />
+    <text
+       id="text4004"
+       y="458.48975"
+       x="236.41515"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="458.48975"
+         x="236.41515"
+         id="tspan4006"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.02418137px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start">Software</tspan></text>
+    <rect
+       x="-434.06769"
+       y="75.613426"
+       width="179.57388"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1"
+       id="rect5105"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="104.35839"
+       width="198.35365"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1"
+       id="rect5107"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="133.10339"
+       width="157.63632"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.86010385"
+       id="rect5109"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="161.84837"
+       width="141.59583"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.83159143"
+       id="rect5111"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="190.59335"
+       width="127.33958"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.89068002"
+       id="rect5113"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="219.33835"
+       width="110.49427"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.94804931"
+       id="rect5115"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="248.08333"
+       width="138.75287"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.84982693"
+       id="rect5117"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="276.82831"
+       width="147.76485"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.94196749"
+       id="rect5119"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="305.91571"
+       width="254.84697"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1"
+       id="rect5139"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="334.66074"
+       width="137.65334"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.89393443"
+       id="rect5141"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="363.4057"
+       width="160.91599"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.94788384"
+       id="rect5143"
+       transform="rotate(-90)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="67.400566"
+       font-size="15px"
+       id="text5181"
+       transform="rotate(-90)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light'"
+         id="tspan4850">JavaScript</tspan>
+    </text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="96.145531"
+       font-size="15px"
+       id="text5183"
+       transform="rotate(-90)">HTML</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="124.89052"
+       font-size="15px"
+       id="text5185"
+       transform="rotate(-90)">CSS/SASS</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="153.63554"
+       font-size="15px"
+       id="text5187"
+       transform="rotate(-90)">Node</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="182.38051"
+       font-size="15px"
+       id="text5189"
+       transform="rotate(-90)">React</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="211.12552"
+       font-size="15px"
+       id="text5191"
+       transform="rotate(-90)">SQL</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="239.87047"
+       font-size="15px"
+       id="text5193"
+       transform="rotate(-90)">Python</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="268.61542"
+       font-size="15px"
+       id="text5195"
+       transform="rotate(-90)">Devops</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="297.36041"
+       font-size="15px"
+       id="text5197"
+       transform="rotate(-90)">AWS/GCloud</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="326.44788"
+       font-size="15px"
+       id="text5217"
+       transform="rotate(-90)">Regular Expressions</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="355.19287"
+       font-size="15px"
+       id="text5219"
+       transform="rotate(-90)">Wordpress</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="383.93777"
+       font-size="15px"
+       id="text5221"
+       transform="rotate(-90)">Microservices</text>
+    <rect
+       x="-434.06769"
+       y="392.91949"
+       width="111.08474"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.85047287"
+       id="rect5151"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="421.6644"
+       width="145.168"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.85635751"
+       id="rect5153"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="450.40945"
+       width="143.66238"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.82151556"
+       id="rect5155"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="479.15448"
+       width="184.47853"
+       height="27.376173"
+       style="fill:#f1c40f;fill-opacity:1;stroke-width:0.90796381"
+       id="rect5157"
+       transform="rotate(-90)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="413.4516"
+       font-size="15px"
+       id="text5229"
+       transform="rotate(-90)">Hardware</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="442.19659"
+       font-size="15px"
+       id="text5231"
+       transform="rotate(-90)">Bash</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="470.94162"
+       font-size="15px"
+       id="text5233"
+       transform="rotate(-90)">Infrastructure</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="499.68649"
+       font-size="15px"
+       id="text5235"
+       transform="rotate(-90)">Data Modeling</text>
+    <rect
+       y="508.6683"
+       x="-467.00818"
+       height="114.261"
+       width="31.101961"
+       id="rect3205-0"
+       style="fill:#1abc9c;fill-opacity:1;stroke:none"
+       transform="rotate(-90)" />
+    <text
+       id="text4000"
+       y="456.84061"
+       x="542.49695"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.02418137px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
+         y="456.84061"
+         x="542.49695"
+         id="tspan4002"
+         sodipodi:role="line">Docs</tspan></text>
+    <rect
+       x="-434.06769"
+       y="508.6683"
+       width="213.10918"
+       height="27.376173"
+       style="fill:#1abc9c;fill-opacity:1;stroke-width:0.9538638"
+       id="rect5159"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="537.73846"
+       width="196.17302"
+       height="27.376173"
+       style="fill:#1abc9c;fill-opacity:1"
+       id="rect5163"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="566.48334"
+       width="172.57784"
+       height="27.376173"
+       style="fill:#1abc9c;fill-opacity:1"
+       id="rect5165"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="595.55365"
+       width="164.78386"
+       height="27.376173"
+       style="fill:#1abc9c;fill-opacity:1"
+       id="rect5169"
+       transform="rotate(-90)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="529.20044"
+       font-size="15px"
+       id="text5237"
+       transform="rotate(-90)">MS Office/G Suite</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="558.27051"
+       font-size="15px"
+       id="text5241"
+       transform="rotate(-90)">Visual Explanations</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="587.01569"
+       font-size="15px"
+       id="text5243"
+       transform="rotate(-90)">BRD/FSD Writing</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="616.08551"
+       font-size="15px"
+       id="text5247"
+       transform="rotate(-90)">Technical Writing</text>
+    <rect
+       y="625.0675"
+       x="-467.00818"
+       height="85.515999"
+       width="31.101961"
+       id="rect3205"
+       style="fill:#3498db;fill-opacity:1;stroke:none"
+       transform="rotate(-90)" />
+    <text
+       id="text4012"
+       y="458.25156"
+       x="635.77496"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="458.25156"
+         x="635.77496"
+         id="tspan4014"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.02418137px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start">Design</tspan></text>
+    <rect
+       x="-434.06769"
+       y="625.0675"
+       width="155.23685"
+       height="27.376173"
+       style="fill:#3498db;fill-opacity:1;stroke-width:0.89465934"
+       id="rect5171"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="653.8125"
+       width="172.79085"
+       height="27.376173"
+       style="fill:#3498db;fill-opacity:1;stroke-width:0.89889812"
+       id="rect5173"
+       transform="rotate(-90)" />
+    <rect
+       x="-434.06769"
+       y="683.20776"
+       width="198.96803"
+       height="27.376173"
+       style="fill:#3498db;fill-opacity:1"
+       id="rect5179"
+       transform="rotate(-90)" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="645.59961"
+       font-size="15px"
+       id="text5249"
+       transform="rotate(-90)">UI/UX</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="674.3446"
+       font-size="15px"
+       id="text5251"
+       transform="rotate(-90)">Branding</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-431.33008"
+       y="703.73987"
+       font-size="15px"
+       id="text5257"
+       transform="rotate(-90)">Graphic Design</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28939819px;line-height:125%;font-family:'HelveticaNeueLT Com 23 UltLtEx';-inkscape-font-specification:'HelveticaNeueLT Com 23 UltLtEx Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+       x="-419.35327"
+       y="506.60501"
+       font-size="15px"
+       id="text5233-0"
+       transform="rotate(-90)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3820-4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#bdc3c7;fill-opacity:1;stroke:none"
+       transform="matrix(1.6301465,0,0,1.6301465,-687.76524,-135.2485)"><flowRegion
+         id="flowRegion3822-0"><rect
+           id="rect3824-9"
+           width="138.57143"
+           height="87.14286"
+           x="400"
+           y="185.21933"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.71158314px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#bdc3c7;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3826-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.06586075px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle">Skills</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
+       id="flowRoot3877-3-8"
+       xml:space="preserve"
+       transform="translate(-1.9650805,109.2308)"><flowRegion
+         id="flowRegion3879-8-7"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"
+           y="617.97308"
+           x="36.349419"
+           height="66.494843"
+           width="675.09955"
+           id="rect3881-0-4" /></flowRegion><flowPara
+         id="flowPara3901-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1">2013 to 2014</flowPara><flowPara
+         id="flowPara3945-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"> </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.93796941,0,0,0.93796941,-751.47528,693.41459)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
+       id="flowRoot3877-5-8"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3879-9-6"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"
+           y="98.076462"
+           x="841.42859"
+           height="327.51468"
+           width="719.32001"
+           id="rect3881-8-5" /></flowRegion><flowPara
+         id="flowPara3945-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="8.2942619"
+       y="193.95297"
+       id="text4113"><tspan
+         sodipodi:role="line"
+         id="tspan4115"
+         x="8.2942619"
+         y="193.95297"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan></text>
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
+       id="flowRoot3877-3-5"
+       xml:space="preserve"
+       transform="translate(45.014764,621.76407)"><flowRegion
+         id="flowRegion3879-8-75"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
+           y="-1.4089928"
+           x="1.235502"
+           height="66.494843"
+           width="675.09955"
+           id="rect3881-0-9" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
+         id="flowPara3665-5">Frontend Engineer                                                                </flowPara><flowPara
+         id="flowPara3893-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
+         id="flowPara3895-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
+         id="flowPara3897-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1">   </flowPara><flowPara
+         id="flowPara3901-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /><flowPara
+         id="flowPara3945-3-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <flowRoot
+       transform="matrix(0.93796941,0,0,0.93796941,-754.84915,527.27838)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
+       id="flowRoot3877-3-8-1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3879-8-7-0"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"
+           y="98.076462"
+           x="841.42859"
+           height="70.892334"
+           width="719.74579"
+           id="rect3881-0-4-2" /></flowRegion><flowPara
+         id="flowPara3901-5-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1">2015 to 2016</flowPara><flowPara
+         id="flowPara3945-3-1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"> </flowPara></flowRoot>    <g
+       id="g10"
+       transform="matrix(0.61919801,0,0,-0.61919801,288.2129,684.08782)">
+      <g
+         id="g4163"
+         transform="matrix(0.6384875,0,0,0.6384875,24.348951,24.07854)">
+        <g
+           transform="translate(143.448,67.609)"
+           id="g12">
+          <path
+             id="path14"
+             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 10.938,67.713 H 28.422 L 17.485,0 H 0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(224.353,133.66)"
+           id="g16">
+          <path
+             id="path18-3"
+             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c -3.457,1.359 -8.894,2.842 -15.667,2.842 -17.286,0 -29.454,-9.19 -29.555,-22.348 -0.11,-9.732 8.683,-15.161 15.312,-18.396 6.813,-3.316 9.102,-5.438 9.075,-8.403 -0.047,-4.535 -5.438,-6.613 -10.465,-6.613 -7,0 -10.719,1.023 -16.469,3.551 l -2.249,1.078 -2.445,-15.157 c 4.077,-1.886 11.635,-3.523 19.479,-3.609 18.371,0 30.308,9.078 30.448,23.129 0.063,7.718 -4.596,13.569 -14.686,18.399 -6.11,3.139 -9.86,5.219 -9.817,8.397 0.004,2.815 3.168,5.827 10.016,5.827 5.719,0.092 9.859,-1.225 13.085,-2.601 l 1.57,-0.775 L 0,0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(247.634,91.616)"
+           id="g20">
+          <path
+             id="path22"
+             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c 1.449,3.892 6.965,18.926 6.965,18.926 -0.102,-0.178 1.441,3.923 2.324,6.461 l 1.18,-5.84 c 0,0 3.355,-16.162 4.046,-19.547 C 11.793,0 3.414,0 0,0 Z M 21.57,43.637 H 8.058 c -4.191,0 -7.328,-1.198 -9.164,-5.613 l -25.965,-62.055 h 18.364 c 0,0 2.996,8.348 3.676,10.18 2.003,0 19.847,-0.035 22.394,-0.035 0.524,-2.363 2.129,-10.145 2.129,-10.145 H 35.72 L 21.57,43.637"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(128.78,135.265)"
+           id="g24">
+          <path
+             id="path26-2"
+             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 -17.113,-46.164 -1.833,9.384 c -3.189,10.812 -13.116,22.531 -24.22,28.403 l 15.656,-59.22 18.504,0.011 L 18.528,0 H 0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(95.781,135.311)"
+           id="g28">
+          <path
+             id="path30"
+             style="fill:#f79510;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 h -28.195 l -0.233,-1.403 C -6.488,-7.012 8.028,-20.551 14.053,-36.826 L 7.926,-5.713 C 6.869,-1.422 3.797,-0.15 0,0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(288.329,72.034)"
+           id="g32">
+          <path
+             id="path34"
+             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 H 0.828 C 1.413,0 1.533,0.342 1.533,0.617 1.533,1.09 1.226,1.2 0.75,1.2 H 0 Z m -0.715,1.726 h 1.707 c 0.398,0 1.271,-0.105 1.271,-1.109 0,-0.266 -0.079,-0.641 -0.65,-0.885 v -0.021 c 0.493,-0.084 0.519,-0.55 0.548,-0.925 0.036,-0.598 0,-0.705 0.156,-0.916 H 1.576 c -0.141,0.142 -0.109,0.253 -0.141,0.88 0,0.356 -0.045,0.719 -0.847,0.719 H 0 V -2.13 h -0.715 z m 1.41,-5.234 c 1.754,0 3.132,1.456 3.132,3.275 0,1.821 -1.378,3.276 -3.132,3.276 -1.753,0 -3.13,-1.455 -3.13,-3.276 0,-1.819 1.377,-3.275 3.13,-3.275 z m 0,7.137 c 2.163,0 3.862,-1.731 3.862,-3.862 0,-2.13 -1.699,-3.861 -3.862,-3.861 -2.162,0 -3.859,1.731 -3.859,3.861 0,2.131 1.697,3.862 3.859,3.862"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="742.75116"
+       y="466.83417"
+       id="text4464"><tspan
+         sodipodi:role="line"
+         id="tspan4466"
+         x="742.75116"
+         y="466.83417"
+         style="font-size:40px;line-height:1.25"> </tspan></text>
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
+       id="flowRoot3877-3-5-9"
+       xml:space="preserve"
+       transform="translate(45.014764,514.6575)"><flowRegion
+         id="flowRegion3879-8-75-1"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
+           y="-1.4089928"
+           x="1.235502"
+           height="66.494843"
+           width="675.09955"
+           id="rect3881-0-9-4" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
+         id="flowPara3665-5-9">Senior Frontend Engineer                                                                </flowPara><flowPara
+         id="flowPara3893-3-8-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
+         id="flowPara3895-8-5-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
+         id="flowPara3897-3-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1">   </flowPara><flowPara
+         id="flowPara3901-5-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /><flowPara
+         id="flowPara3945-3-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
+       id="flowRoot3877-3-8-1-7"
+       xml:space="preserve"
+       transform="translate(45.839607,505.79121)"><flowRegion
+         id="flowRegion3879-8-7-0-0"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"
+           y="6.3728466"
+           x="-11.454406"
+           height="66.494843"
+           width="675.09955"
+           id="rect3881-0-4-2-4" /></flowRegion><flowPara
+         id="flowPara3901-5-3-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1">2016 to 2020</flowPara><flowPara
+         id="flowPara3945-3-1-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"> </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="128.56107"
+       y="533.18829"
+       id="text4952"><tspan
+         sodipodi:role="line"
+         id="tspan4954"
+         x="128.56107"
+         y="533.18829"
+         style="font-size:40px;line-height:1.25"> </tspan></text>
+    <g
+       id="g162"
+       transform="matrix(2.9236686,0,0,2.9892059,2.1804493,-97.24551)">
+      <path
+         id="Fill-1"
+         d="m 143.55794,206.92675 c -0.26923,-0.20437 -0.59461,-0.29258 -0.91215,-0.37861 l -0.0353,-0.009 c -0.32918,-0.0924 -0.52377,-0.17809 -0.65095,-0.28672 -0.12904,-0.11074 -0.19148,-0.25722 -0.202,-0.47434 -0.004,-0.0994 0.009,-0.19485 0.041,-0.28337 0.0317,-0.0874 0.0797,-0.16533 0.14268,-0.23157 0.0705,-0.0746 0.15911,-0.13334 0.26257,-0.1743 0.10782,-0.0423 0.22821,-0.0637 0.36124,-0.0637 0.10856,-0.004 0.21924,0.0139 0.32003,0.0504 0.0932,0.034 0.17348,0.0835 0.23841,0.14729 0.0619,0.0615 0.11112,0.13807 0.14548,0.22764 0.0361,0.0944 0.0552,0.20269 0.0569,0.32215 l 0.004,0.21177 h 0.61428 l -0.003,-0.21874 c -0.007,-0.39062 -0.14187,-0.72484 -0.39119,-0.96625 -0.24675,-0.23935 -0.58843,-0.36852 -0.99039,-0.37412 -0.36721,0 -0.70866,0.11585 -0.96175,0.32625 -0.29707,0.24744 -0.45419,0.60657 -0.45419,1.04219 0.0141,0.41919 0.15152,0.71874 0.43276,0.94197 0.25037,0.20013 0.59624,0.31087 0.93568,0.40892 0.35371,0.0782 0.58689,0.18307 0.73394,0.33017 0.13582,0.13608 0.20211,0.31978 0.2091,0.57699 l 5.2e-4,0.0306 c 0,0.12108 -0.0211,0.23605 -0.0631,0.34188 -0.041,0.10458 -0.10153,0.19895 -0.17934,0.27969 -0.0808,0.083 -0.17704,0.14753 -0.28666,0.1921 -0.11305,0.0453 -0.23649,0.0682 -0.36671,0.0682 -0.28399,0 -0.52433,-0.0883 -0.69509,-0.25504 -0.16994,-0.1659 -0.26232,-0.40139 -0.26736,-0.68145 l -0.004,-0.2124 -0.60407,0.003 -0.0111,0.27271 c 0,0.18289 0.0324,0.35912 0.0966,0.52446 0.0647,0.16452 0.15992,0.3148 0.28342,0.44701 0.14679,0.15644 0.33367,0.28455 0.54071,0.37077 0.20486,0.085 0.43332,0.12997 0.66041,0.12997 0.21321,0 0.41913,-0.0408 0.6121,-0.12188 0.19235,-0.0815 0.36186,-0.19958 0.5041,-0.35072 0.13789,-0.14641 0.24197,-0.31542 0.30914,-0.50186 0.0675,-0.18619 0.0957,-0.38333 0.0842,-0.58564 -0.0252,-0.48325 -0.19267,-0.83565 -0.51132,-1.07674"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566" />
+      <polygon
+         transform="matrix(0.23399566,0,0,0.23399566,140.10195,201.22307)"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+         id="Fill-3"
+         mask="none"
+         points="7.3144784,8.6728028 6.2644565,5.42404 9.0295762,3.4160427 5.6134802,3.4160427 4.5671828,0.17419668 3.5099781,3.4160427 0.087763418,3.4160427 2.8600659,5.4264342 1.8230795,8.66562 4.5599999,6.6645396 " />
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566"
+         inkscape:connector-curvature="0"
+         d="m 138.52032,208.46657 -1.60773,-4.04133 h -0.66707 l 0.17243,0.43712 c 0.0141,0.0359 0.45797,1.15966 0.89907,2.27393 l 0.84934,2.14594 -0.8865,2.02537 h 0.68475 l 2.77205,-6.44082 0.17791,-0.44154 h -0.6878 z"
+         id="Fill-6"
+         mask="none" />
+      <path
+         id="Fill-9"
+         d="m 132.42642,205.58518 c 0.22871,-0.20486 0.43693,-0.34069 0.65568,-0.42784 0.21707,-0.0866 0.4553,-0.12886 0.77059,-0.13272 0.35059,0 0.71089,0.10234 1.01455,0.28834 0.35333,0.21682 0.61515,0.53884 0.7564,0.93108 l 0.0509,0.14255 h 0.66141 l -0.10073,-0.28648 c -0.19602,-0.55782 -0.56155,-1.00789 -1.057,-1.30214 -0.40394,-0.24022 -0.88638,-0.37275 -1.35823,-0.37275 -0.70648,0 -1.35693,0.2625 -1.83152,0.73934 -0.47522,0.47627 -0.73704,1.12934 -0.73704,1.8383 0,0.65244 0.2424,1.29219 0.66489,1.75477 0.48126,0.52719 1.15443,0.80595 1.94581,0.80595 0.52962,0 1.0321,-0.15314 1.45316,-0.44273 0.42088,-0.29058 0.73586,-0.70137 0.91078,-1.18772 l 0.10409,-0.28841 h -0.6667 l -0.0492,0.14567 c -0.10078,0.29338 -0.32065,0.58116 -0.60376,0.7897 -0.33534,0.24719 -0.74725,0.37991 -1.19053,0.38358 -0.25965,0 -0.51138,-0.0474 -0.74756,-0.14056 -0.23456,-0.0936 -0.44471,-0.22939 -0.62487,-0.40394 -0.18594,-0.17984 -0.33086,-0.39472 -0.43083,-0.638 -0.0996,-0.24383 -0.15015,-0.50883 -0.15015,-0.78696 0,-0.27054 0.0539,-0.54724 0.156,-0.80029 0.0999,-0.24881 0.23985,-0.45953 0.40388,-0.60874"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566" />
+      <path
+         id="Fill-11"
+         d="m 130.0284,204.42517 v 0.84324 c -0.13191,-0.14971 -0.28673,-0.2856 -0.45829,-0.40108 -0.42946,-0.28927 -0.93717,-0.4421 -1.46897,-0.4421 -0.97434,0 -1.57611,0.44652 -1.90927,0.82071 -0.41857,0.46843 -0.65867,1.10556 -0.65867,1.74829 0,0.64192 0.23985,1.27905 0.65811,1.74785 0.33341,0.37468 0.93549,0.8212 1.90983,0.8212 0.50516,0 0.9607,-0.12082 1.35375,-0.35918 0.21569,-0.13103 0.40749,-0.295 0.57351,-0.48928 v 0.84778 h 0.61515 v -5.13743 z m 0.002,2.89811 c -0.0203,0.12525 -0.0516,0.24327 -0.0941,0.35352 -0.1377,0.39112 -0.37835,0.71706 -0.69533,0.94197 -0.31785,0.22578 -0.70343,0.34486 -1.11452,0.34486 -0.60072,0 -1.10899,-0.21153 -1.46979,-0.61154 -0.31953,-0.35433 -0.50522,-0.84953 -0.50914,-1.35786 0,-0.54531 0.1982,-1.04524 0.55795,-1.40766 0.35949,-0.36242 0.85494,-0.56174 1.39545,-0.56174 0.4022,0 0.78578,0.11335 1.10892,0.32762 0.32146,0.21352 0.56517,0.51555 0.70617,0.8766 0.0448,0.10632 0.0791,0.22049 0.10246,0.33926 0.0233,0.11946 0.0352,0.2467 0.0352,0.38228 0.005,0.1227 -0.003,0.24794 -0.0233,0.37269 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566" />
+      <path
+         id="Fill-13"
+         d="m 124.34983,204.93411 c -0.16932,-0.16982 -0.37276,-0.29892 -0.60458,-0.38365 -0.4472,-0.16384 -1.05955,-0.17753 -1.56751,0.0368 -0.25429,0.10713 -0.47908,0.265 -0.65008,0.45542 -0.07,0.0768 -0.13128,0.15694 -0.18656,0.24359 -0.063,-0.11056 -0.11772,-0.19043 -0.16104,-0.23612 -0.16932,-0.20268 -0.38496,-0.35986 -0.64143,-0.46706 -0.25124,-0.10464 -0.53161,-0.1578 -0.83414,-0.1578 -0.19124,0 -0.48412,0.0298 -0.79313,0.17168 -0.20256,0.0933 -0.38247,0.2208 -0.53703,0.3806 v -0.55241 h -0.61516 v 5.13743 h 0.61516 v -2.8851 c 0,-0.28087 0.0305,-0.51555 0.0935,-0.71737 0.0602,-0.19403 0.15263,-0.36042 0.28672,-0.51437 0.0972,-0.12749 0.23848,-0.2358 0.40836,-0.31293 0.17598,-0.0791 0.36254,-0.11771 0.53572,-0.108 0.24041,0.008 0.45113,0.0521 0.62649,0.13166 0.17019,0.0774 0.31287,0.18961 0.42305,0.33185 0.10383,0.13913 0.16658,0.26083 0.20984,0.40693 0.0536,0.17816 0.0786,0.39728 0.0786,0.68923 l -0.002,2.9781 h 0.61477 v -2.84252 c 0,-0.30646 0.01,-0.55091 0.0577,-0.74793 0.0423,-0.17399 0.11778,-0.3232 0.25323,-0.49912 0.11411,-0.1489 0.2734,-0.26475 0.47441,-0.34406 0.35918,-0.14249 0.7958,-0.12612 1.09006,-0.0184 0.14822,0.054 0.27564,0.13589 0.38028,0.24464 0.13185,0.13253 0.23232,0.30876 0.29868,0.5239 0.0708,0.22939 0.10663,0.51219 0.10663,0.84093 v 2.84252 h 0.61453 v -2.84252 c 0,-0.39498 -0.0466,-0.74407 -0.13825,-1.03746 -0.0962,-0.30701 -0.2437,-0.55894 -0.43717,-0.74849"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566" />
+      <polygon
+         transform="matrix(0.23399566,0,0,0.23399566,108.41672,201.20158)"
+         points="11.569661,22.176371 7.1873425,35.692576 18.649261,27.329912 30.179283,35.731949 25.77382,22.154025 37.292669,13.778059 23.056586,13.778059 18.666819,0.26611018 14.28184,13.778059 0,13.778059 "
+         id="Fill-15"
+         style="fill:#e11a2b;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="739.5675"
+       y="130.39539"
+       id="text1162"><tspan
+         sodipodi:role="line"
+         id="tspan1160"
+         x="739.5675"
+         y="165.78601" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3776"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3778"><rect
+           id="rect3780"
+           width="209.43011"
+           height="108.65483"
+           x="45.618439"
+           y="831.99432" /></flowRegion><flowPara
+         id="flowPara3782" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="718.4538"
+       y="375.54941"
+       id="text4068"><tspan
+         sodipodi:role="line"
+         id="tspan4066"
+         x="718.4538"
+         y="410.94003" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1150"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(0,62.362183)"><flowRegion
+         id="flowRegion1152"><rect
+           id="rect1154"
+           width="27.565165"
+           height="197.6481"
+           x="24.046207"
+           y="452.18604" /></flowRegion><flowPara
+         id="flowPara1156">Developed and designed the presentation layer of Macys.com for marketing and sales initiative pages supporting a weekly release cycle. Cross-functional role that required strong verbal and written skills to deliver the final phase of the creative release process to the web. Ensured brand guidelines were delivered with pixel perfection for a number of external merchants including Apple and Fitbit. Fullstack role focused on performance, scalability, accessibility, and SEO.  Excelled in the position by removing tech debt and standardizing componentization of commonly used code patterns.    JavaScript Ninja using the weapons of HTML/CSS/JS to slice through the presentation tier for high traffic, consumer-facing applications while thinking about site speed, user experience, product strategy, and the health of the codebase. Battling large JavaScript applications with deep knowledge of casting browser assets spells to vanquish slow site speeds, AJAX bottlenecks, and sloppy stylings. Vigilant about the latest design and development trends from tablet, mobile, HTML5, CSS3, JavaScript evolution, responsive design, accessibility, site performance, progressive enhancement, semantic markup, and cross-browser development.    Wrangling 911 lookup data from unstructured to structured data by writing complex regular expressions. Writing DML SQL scripts to deploy system configurations. Manually syncing data and configurations from production to development environments using the BCP-utility of SQL Server and Redgate SQL Data (Compare). Assessing data to measure accuracy, integrity, completeness, usefulness, and freshness using C#, Python, and SQL Server combined with subject matter expertise (SME) of telco infrastructure, specifically the routing of 911 calls.        </flowPara><flowPara
+         id="flowPara1158" /><flowPara
+         id="flowPara1160" /><flowPara
+         id="flowPara1162" /><flowPara
+         id="flowPara1164" /><flowPara
+         id="flowPara1166" /><flowPara
+         id="flowPara1168" /><flowPara
+         id="flowPara1170" /><flowPara
+         id="flowPara1172" /><flowPara
+         id="flowPara1174" /><flowPara
+         id="flowPara1176" /><flowPara
+         id="flowPara1178" /><flowPara
+         id="flowPara1180" /><flowPara
+         id="flowPara1182" /><flowPara
+         id="flowPara1184" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1186"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(26.978672,98.754363)"><flowRegion
+         id="flowRegion1188"><rect
+           id="rect1190"
+           width="665.66937"
+           height="378.87442"
+           x="19.940758"
+           y="435.76422" /></flowRegion><flowPara
+         id="flowPara1194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">Developed and designed the presentation layer of Macys.com for marketing and sales initiative pages supporting a weekly release cycle. Cross-functional role that required strong verbal and written skills to deliver the final phase of the creative release process to the web. Ensured brand guidelines were delivered with pixel perfection for a number of external merchants including Apple and Fitbit. Fullstack role focused on performance, scalability, accessibility, and SEO.  Excelled in the position by removing tech debt and standardizing componentization of commonly used code patterns. </flowPara><flowPara
+         id="flowPara1196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'" /><flowPara
+         id="flowPara1198"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
+         id="flowPara1200"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">JavaScript Ninja using the weapons of HTML/CSS/JS to slice through the presentation tier for high traffic, consumer-facing applications while thinking about site speed, user experience, product strategy, and the health of the codebase. Battling large JavaScript applications with deep knowledge of casting browser assets spells to vanquish slow site speeds, AJAX bottlenecks, and sloppy stylings. Vigilant about the latest design and development trends from tablet, mobile, HTML5, CSS3, JavaScript evolution, responsive design, accessibility, site performance, progressive enhancement, semantic markup, and cross-browser development. </flowPara><flowPara
+         id="flowPara1206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
+         id="flowPara1208"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
+         id="flowPara1210"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">Wrangling 911 lookup data from unstructured to structured data by writing complex regular expressions. Writing DML SQL scripts to deploy system configurations. Manually syncing data and configurations from production to development environments using the BCP-utility of SQL Server and Redgate SQL Data (Compare). Assessing data to measure accuracy, integrity, completeness, usefulness, and freshness using C#, Python, and SQL Server combined with subject matter expertise (SME) of telco infrastructure, specifically the routing of 911 calls.  </flowPara><flowPara
+         id="flowPara1212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
+         id="flowPara1214"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
+         id="flowPara1216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">   </flowPara><flowPara
+         id="flowPara1218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
+         id="flowPara1220"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-52.253849"
+       y="786.16327"
+       id="text1305"><tspan
+         sodipodi:role="line"
+         id="tspan1303"
+         x="-52.253849"
+         y="786.16327">=</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1311-9"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(252.65606,48.029077)"><flowRegion
+         id="flowRegion1313-1"><rect
+           id="rect1315-3"
+           width="212.51709"
+           height="122.99798"
+           x="44.789013"
+           y="822.45593" /></flowRegion><flowPara
+         id="flowPara1317-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">&quot;Evin and I have collaborated on multiple projects, she consistently delivers results that far exceed the expectations of the client. Whether there is a time crunch or a client that can’t reach a decision she ensures that all the options are made known and succulently explains the risks versus the benefits.&quot;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1311-1"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(491.58022,48.029077)"><flowRegion
+         id="flowRegion1313-5"><rect
+           id="rect1315-2"
+           width="180.95723"
+           height="136.87256"
+           x="44.789013"
+           y="822.45593" /></flowRegion><flowPara
+         id="flowPara1317-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">&quot;Evin takes immense ownership and accountability - solving problems, collaborating with external teams, taking a problem to a solution. She has been a mentor the rest of the team and has nurtured her Technical and so skills to effectively solve a challenge.&quot;</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="360.69312"
+       y="1068.2272"
+       id="text1391"><tspan
+         sodipodi:role="line"
+         id="tspan1389"
+         x="360.69312"
+         y="1068.2272">--</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.34749031px;line-height:0%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.88617883;fill:#f3dc7f;fill-opacity:1;stroke:none;stroke-width:1.44562423"
+       x="712.45142"
+       y="120.11645"
+       id="text3417-3"><tspan
+         sodipodi:role="line"
+         x="712.45142"
+         y="120.11645"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:32.26813889px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.44562423"
+         id="tspan4189-6">Evin@EvinRevello.com</tspan><tspan
+         sodipodi:role="line"
+         x="712.45142"
+         y="147.53311"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:32.26813889px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.44562423"
+         id="tspan1155-7" /><tspan
+         sodipodi:role="line"
+         x="712.45142"
+         y="147.53311"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:32.26813889px;line-height:184.80000496%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.44562423"
+         id="tspan4191-5" /></text>
+    <g
        inkscape:label="Layer 1"
        id="layer1-7"
-       transform="matrix(0.17235206,0,0,0.17235206,318.37689,571.8184)">
+       transform="matrix(0.15487454,0,0,0.15487454,329.65554,603.15183)"
+       clip-path="url(#clipPath1185)">
       <g
          id="g19186"
          transform="translate(-17.574891,649.05289)"
@@ -679,901 +1585,5 @@
            inkscape:export-ydpi="150" />
       </g>
     </g>
-    <flowRoot
-       transform="matrix(0.93796941,0,0,0.93796941,-741.74768,625.75353)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="flowRoot3877-3"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3879-8"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
-           y="98.076462"
-           x="841.42859"
-           height="70.892334"
-           width="719.74579"
-           id="rect3881-0" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
-         id="flowPara3665">Jr Developer/Designer                                                                   </flowPara><flowPara
-         id="flowPara3893-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
-         id="flowPara3895-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
-         id="flowPara3897-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1">   </flowPara><flowPara
-         id="flowPara3901-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /><flowPara
-         id="flowPara3945-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <path
-       style="opacity:0.47000002;fill:none;stroke:#000000;stroke-width:0.48053929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.76647115, 5.76647115000000010;stroke-dashoffset:0"
-       d="m 46.593306,309.86414 667.899094,0"
-       id="path4095-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="opacity:0.47000002;fill:none;stroke:#000000;stroke-width:0.48053929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.76647115, 5.76647115000000010;stroke-dashoffset:0"
-       d="m 46.593306,248.6249 667.811454,0"
-       id="path4095-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="opacity:0.47000002;fill:none;stroke:#000000;stroke-width:0.48053929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.76647115, 5.76647115000000010;stroke-dashoffset:0"
-       d="m 46.593306,194.00367 667.823624,0"
-       id="path4095"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1;stroke:none"
-       x="-337.43936"
-       y="40.449631"
-       id="text4030"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan4032"
-         x="-337.43936"
-         y="40.449631"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1">Proficient</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1;stroke:none"
-       x="-274.88385"
-       y="40.303383"
-       id="text4034"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan4036"
-         x="-274.88385"
-         y="40.303383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1">Advanced</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1;stroke:none"
-       x="-208.88319"
-       y="39.504631"
-       id="text4038"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan4040"
-         x="-208.88319"
-         y="39.504631"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bdc3c7;fill-opacity:1">Expert</tspan></text>
-    <rect
-       x="-424.06769"
-       y="46.868443"
-       width="171.69588"
-       height="27.376173"
-       style="fill:#e74c3c"
-       id="rect5103"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <rect
-       y="46.868443"
-       x="-457.00815"
-       height="343.91299"
-       width="31.101961"
-       id="rect3205-9"
-       style="fill:#e74c3c;fill-opacity:1;stroke:none"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <text
-       id="text4004"
-       y="448.48975"
-       x="179.05365"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="448.48975"
-         x="179.05365"
-         id="tspan4006"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.02418137px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start">Software</tspan></text>
-    <rect
-       x="-424.06769"
-       y="75.613426"
-       width="179.57388"
-       height="27.376173"
-       style="fill:#e74c3c"
-       id="rect5105"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <rect
-       x="-424.06769"
-       y="104.35839"
-       width="198.35365"
-       height="27.376173"
-       style="fill:#e74c3c"
-       id="rect5107"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <rect
-       x="-424.06769"
-       y="133.10339"
-       width="157.63632"
-       height="27.376173"
-       style="fill:#e74c3c;stroke-width:0.86010385"
-       id="rect5109"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="161.84837"
-       width="141.59583"
-       height="27.376173"
-       style="fill:#e74c3c;stroke-width:0.83159143"
-       id="rect5111"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="190.59335"
-       width="127.33958"
-       height="27.376173"
-       style="fill:#e74c3c;stroke-width:0.89068002"
-       id="rect5113"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="219.33835"
-       width="110.49427"
-       height="27.376173"
-       style="fill:#e74c3c;stroke-width:0.94804931"
-       id="rect5115"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="248.08333"
-       width="138.75287"
-       height="27.376173"
-       style="fill:#e74c3c;stroke-width:0.84982693"
-       id="rect5117"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="276.82831"
-       width="147.76485"
-       height="27.376173"
-       style="fill:#e74c3c;stroke-width:0.94196749"
-       id="rect5119"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="305.91571"
-       width="254.84697"
-       height="27.376173"
-       style="fill:#e74c3c;fill-opacity:1"
-       id="rect5139"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <rect
-       x="-424.06769"
-       y="334.66074"
-       width="137.65334"
-       height="27.376173"
-       style="fill:#e74c3c;fill-opacity:1;stroke-width:0.89393443"
-       id="rect5141"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="363.4057"
-       width="160.91599"
-       height="27.376173"
-       style="fill:#e74c3c;fill-opacity:1;stroke-width:0.94788384"
-       id="rect5143"
-       transform="rotate(-90)" />
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="67.400566"
-       font-size="15px"
-       id="text5181"
-       transform="rotate(-90)">
-      <tspan
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light'"
-         id="tspan4850">JavaScript</tspan>
-    </text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="96.145531"
-       font-size="15px"
-       id="text5183"
-       transform="rotate(-90)">HTML</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="124.89052"
-       font-size="15px"
-       id="text5185"
-       transform="rotate(-90)">CSS</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="153.63554"
-       font-size="15px"
-       id="text5187"
-       transform="rotate(-90)">Node</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="182.38051"
-       font-size="15px"
-       id="text5189"
-       transform="rotate(-90)">React</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="211.12552"
-       font-size="15px"
-       id="text5191"
-       transform="rotate(-90)">SQL</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="239.87047"
-       font-size="15px"
-       id="text5193"
-       transform="rotate(-90)">Python</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="268.61542"
-       font-size="15px"
-       id="text5195"
-       transform="rotate(-90)">Devops</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="297.36041"
-       font-size="15px"
-       id="text5197"
-       transform="rotate(-90)">AWS/GCloud</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="326.44788"
-       font-size="15px"
-       id="text5217"
-       transform="rotate(-90)">Regular Expressions</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="355.19287"
-       font-size="15px"
-       id="text5219"
-       transform="rotate(-90)">Wordpress</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="383.93777"
-       font-size="15px"
-       id="text5221"
-       transform="rotate(-90)">Microservices</text>
-    <rect
-       y="392.91949"
-       x="-457.00815"
-       height="113.611"
-       width="31.101961"
-       id="rect3205-05"
-       style="fill:#f1c40f;fill-opacity:1;stroke:none"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <text
-       id="text4008"
-       y="447.4267"
-       x="403.33167"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="447.4267"
-         x="403.33167"
-         id="tspan4010"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.02418137px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start">Hardware</tspan></text>
-    <rect
-       x="-424.06769"
-       y="392.91949"
-       width="111.08474"
-       height="27.376173"
-       style="fill:#f1c40f;stroke-width:0.85047287"
-       id="rect5151"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="421.6644"
-       width="145.168"
-       height="27.376173"
-       style="fill:#f1c40f;stroke-width:0.85635751"
-       id="rect5153"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="450.40945"
-       width="143.66238"
-       height="27.376173"
-       style="fill:#f1c40f;stroke-width:0.82151556"
-       id="rect5155"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="479.15448"
-       width="184.47853"
-       height="27.376173"
-       style="fill:#f1c40f;stroke-width:0.90796381"
-       id="rect5157"
-       transform="rotate(-90)" />
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="413.4516"
-       font-size="15px"
-       id="text5229"
-       transform="rotate(-90)">IoT</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="442.19659"
-       font-size="15px"
-       id="text5231"
-       transform="rotate(-90)">Solar Systems</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="470.94162"
-       font-size="15px"
-       id="text5233"
-       transform="rotate(-90)">Infrastructure</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="499.68649"
-       font-size="15px"
-       id="text5235"
-       transform="rotate(-90)">Soldering and Fab</text>
-    <rect
-       y="508.6683"
-       x="-457.00818"
-       height="114.261"
-       width="31.101961"
-       id="rect3205-0"
-       style="fill:#3498db;fill-opacity:1;stroke:none"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <text
-       id="text4000"
-       y="446.84061"
-       x="542.49695"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.02418137px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
-         y="446.84061"
-         x="542.49695"
-         id="tspan4002"
-         sodipodi:role="line">Docs</tspan></text>
-    <rect
-       x="-424.06769"
-       y="508.6683"
-       width="213.10918"
-       height="27.376173"
-       style="fill:#3498db;stroke-width:0.9538638"
-       id="rect5159"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="537.73846"
-       width="196.17302"
-       height="27.376173"
-       style="fill:#3498db"
-       id="rect5163"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <rect
-       x="-424.06769"
-       y="566.48334"
-       width="172.57784"
-       height="27.376173"
-       style="fill:#3498db"
-       id="rect5165"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <rect
-       x="-424.06769"
-       y="595.55365"
-       width="164.78386"
-       height="27.376173"
-       style="fill:#3498db"
-       id="rect5169"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="529.20044"
-       font-size="15px"
-       id="text5237"
-       transform="rotate(-90)">MS Office/G Suite</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="558.27051"
-       font-size="15px"
-       id="text5241"
-       transform="rotate(-90)">Visual Explanations</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="587.01569"
-       font-size="15px"
-       id="text5243"
-       transform="rotate(-90)">BRD/FSD Writing</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="616.08551"
-       font-size="15px"
-       id="text5247"
-       transform="rotate(-90)">Technical Writing</text>
-    <rect
-       y="625.0675"
-       x="-457.00818"
-       height="85.515999"
-       width="31.101961"
-       id="rect3205"
-       style="fill:#1abc9c;fill-opacity:1;stroke:none"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <text
-       id="text4012"
-       y="448.25156"
-       x="635.77496"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="448.25156"
-         x="635.77496"
-         id="tspan4014"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.02418137px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start">Design</tspan></text>
-    <rect
-       x="-424.06769"
-       y="625.0675"
-       width="155.23685"
-       height="27.376173"
-       style="fill:#1abc9c;fill-opacity:1;stroke-width:0.89465934"
-       id="rect5171"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="653.8125"
-       width="172.79085"
-       height="27.376173"
-       style="fill:#1abc9c;stroke-width:0.89889812"
-       id="rect5173"
-       transform="rotate(-90)" />
-    <rect
-       x="-424.06769"
-       y="683.20776"
-       width="198.96803"
-       height="27.376173"
-       style="fill:#1abc9c"
-       id="rect5179"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="645.59961"
-       font-size="15px"
-       id="text5249"
-       transform="rotate(-90)">UI/UX</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="674.3446"
-       font-size="15px"
-       id="text5251"
-       transform="rotate(-90)">Branding</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:22.32125092px;line-height:0%;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-421.33008"
-       y="703.73987"
-       font-size="15px"
-       id="text5257"
-       transform="rotate(-90)">Graphic Design</text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28939819px;line-height:125%;font-family:'HelveticaNeueLT Com 23 UltLtEx';-inkscape-font-specification:'HelveticaNeueLT Com 23 UltLtEx Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-       x="-419.35327"
-       y="506.60501"
-       font-size="15px"
-       id="text5233-0"
-       transform="rotate(-90)" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3820-4"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#bdc3c7;fill-opacity:1;stroke:none"
-       transform="matrix(1.6301465,0,0,1.6301465,-687.76524,-145.2485)"><flowRegion
-         id="flowRegion3822-0"><rect
-           id="rect3824-9"
-           width="138.57143"
-           height="87.14286"
-           x="400"
-           y="185.21933"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.71158314px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#bdc3c7;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara3826-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.06586075px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:center;writing-mode:lr-tb;text-anchor:middle">Skills</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="flowRoot3877-3-8"
-       xml:space="preserve"
-       transform="translate(-1.9650805,99.2308)"><flowRegion
-         id="flowRegion3879-8-7"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"
-           y="617.97308"
-           x="36.349419"
-           height="66.494843"
-           width="675.09955"
-           id="rect3881-0-4" /></flowRegion><flowPara
-         id="flowPara3901-5-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1">2013 to 2014</flowPara><flowPara
-         id="flowPara3945-3-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"> </flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.93796941,0,0,0.93796941,-751.47528,693.41459)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="flowRoot3877-5-8"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3879-9-6"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"
-           y="98.076462"
-           x="841.42859"
-           height="327.51468"
-           width="719.32001"
-           id="rect3881-8-5" /></flowRegion><flowPara
-         id="flowPara3945-9-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="8.2942619"
-       y="121.59079"
-       id="text4113"
-       transform="translate(0,62.362183)"><tspan
-         sodipodi:role="line"
-         id="tspan4115"
-         x="8.2942619"
-         y="121.59079"
-         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan></text>
-    <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="flowRoot3877-3-5"
-       xml:space="preserve"
-       transform="translate(45.014764,611.76407)"><flowRegion
-         id="flowRegion3879-8-75"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
-           y="-1.4089928"
-           x="1.235502"
-           height="66.494843"
-           width="675.09955"
-           id="rect3881-0-9" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
-         id="flowPara3665-5">Frontend Engineer                                                                </flowPara><flowPara
-         id="flowPara3893-3-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
-         id="flowPara3895-8-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
-         id="flowPara3897-3-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1">   </flowPara><flowPara
-         id="flowPara3901-5-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /><flowPara
-         id="flowPara3945-3-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <flowRoot
-       transform="matrix(0.93796941,0,0,0.93796941,-754.84915,517.27838)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="flowRoot3877-3-8-1"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3879-8-7-0"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"
-           y="98.076462"
-           x="841.42859"
-           height="70.892334"
-           width="719.74579"
-           id="rect3881-0-4-2" /></flowRegion><flowPara
-         id="flowPara3901-5-3-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1">2015 to 2016</flowPara><flowPara
-         id="flowPara3945-3-1-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94476891px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"> </flowPara></flowRoot>    <g
-       id="g10"
-       transform="matrix(0.61919801,0,0,-0.61919801,288.2129,674.08782)">
-      <g
-         id="g4163"
-         transform="matrix(0.6384875,0,0,0.6384875,24.348951,24.07854)">
-        <g
-           transform="translate(143.448,67.609)"
-           id="g12">
-          <path
-             id="path14"
-             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 10.938,67.713 H 28.422 L 17.485,0 H 0"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           transform="translate(224.353,133.66)"
-           id="g16">
-          <path
-             id="path18-3"
-             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c -3.457,1.359 -8.894,2.842 -15.667,2.842 -17.286,0 -29.454,-9.19 -29.555,-22.348 -0.11,-9.732 8.683,-15.161 15.312,-18.396 6.813,-3.316 9.102,-5.438 9.075,-8.403 -0.047,-4.535 -5.438,-6.613 -10.465,-6.613 -7,0 -10.719,1.023 -16.469,3.551 l -2.249,1.078 -2.445,-15.157 c 4.077,-1.886 11.635,-3.523 19.479,-3.609 18.371,0 30.308,9.078 30.448,23.129 0.063,7.718 -4.596,13.569 -14.686,18.399 -6.11,3.139 -9.86,5.219 -9.817,8.397 0.004,2.815 3.168,5.827 10.016,5.827 5.719,0.092 9.859,-1.225 13.085,-2.601 l 1.57,-0.775 L 0,0"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           transform="translate(247.634,91.616)"
-           id="g20">
-          <path
-             id="path22"
-             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 c 1.449,3.892 6.965,18.926 6.965,18.926 -0.102,-0.178 1.441,3.923 2.324,6.461 l 1.18,-5.84 c 0,0 3.355,-16.162 4.046,-19.547 C 11.793,0 3.414,0 0,0 Z M 21.57,43.637 H 8.058 c -4.191,0 -7.328,-1.198 -9.164,-5.613 l -25.965,-62.055 h 18.364 c 0,0 2.996,8.348 3.676,10.18 2.003,0 19.847,-0.035 22.394,-0.035 0.524,-2.363 2.129,-10.145 2.129,-10.145 H 35.72 L 21.57,43.637"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           transform="translate(128.78,135.265)"
-           id="g24">
-          <path
-             id="path26-2"
-             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 -17.113,-46.164 -1.833,9.384 c -3.189,10.812 -13.116,22.531 -24.22,28.403 l 15.656,-59.22 18.504,0.011 L 18.528,0 H 0"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           transform="translate(95.781,135.311)"
-           id="g28">
-          <path
-             id="path30"
-             style="fill:#f79510;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 0,0 h -28.195 l -0.233,-1.403 C -6.488,-7.012 8.028,-20.551 14.053,-36.826 L 7.926,-5.713 C 6.869,-1.422 3.797,-0.15 0,0"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           transform="translate(288.329,72.034)"
-           id="g32">
-          <path
-             id="path34"
-             style="fill:#2b3894;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 0,0 H 0.828 C 1.413,0 1.533,0.342 1.533,0.617 1.533,1.09 1.226,1.2 0.75,1.2 H 0 Z m -0.715,1.726 h 1.707 c 0.398,0 1.271,-0.105 1.271,-1.109 0,-0.266 -0.079,-0.641 -0.65,-0.885 v -0.021 c 0.493,-0.084 0.519,-0.55 0.548,-0.925 0.036,-0.598 0,-0.705 0.156,-0.916 H 1.576 c -0.141,0.142 -0.109,0.253 -0.141,0.88 0,0.356 -0.045,0.719 -0.847,0.719 H 0 V -2.13 h -0.715 z m 1.41,-5.234 c 1.754,0 3.132,1.456 3.132,3.275 0,1.821 -1.378,3.276 -3.132,3.276 -1.753,0 -3.13,-1.455 -3.13,-3.276 0,-1.819 1.377,-3.275 3.13,-3.275 z m 0,7.137 c 2.163,0 3.862,-1.731 3.862,-3.862 0,-2.13 -1.699,-3.861 -3.862,-3.861 -2.162,0 -3.859,1.731 -3.859,3.861 0,2.131 1.697,3.862 3.859,3.862"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="742.75116"
-       y="456.83417"
-       id="text4464"><tspan
-         sodipodi:role="line"
-         id="tspan4466"
-         x="742.75116"
-         y="456.83417"
-         style="font-size:40px;line-height:1.25"> </tspan></text>
-    <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="flowRoot3877-3-5-9"
-       xml:space="preserve"
-       transform="translate(45.014764,504.6575)"><flowRegion
-         id="flowRegion3879-8-75-1"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
-           y="-1.4089928"
-           x="1.235502"
-           height="66.494843"
-           width="675.09955"
-           id="rect3881-0-9-4" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"
-         id="flowPara3665-5-9">Senior Frontend Engineer                                                                </flowPara><flowPara
-         id="flowPara3893-3-8-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
-         id="flowPara3895-8-5-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1"> </flowPara><flowPara
-         id="flowPara3897-3-9-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1">   </flowPara><flowPara
-         id="flowPara3901-5-8-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /><flowPara
-         id="flowPara3945-3-2-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c3e50;fill-opacity:1" /></flowRoot>    <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:0.98000004;fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="flowRoot3877-3-8-1-7"
-       xml:space="preserve"
-       transform="translate(45.839607,495.79121)"><flowRegion
-         id="flowRegion3879-8-7-0-0"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"
-           y="6.3728466"
-           x="-11.454406"
-           height="66.494843"
-           width="675.09955"
-           id="rect3881-0-4-2-4" /></flowRegion><flowPara
-         id="flowPara3901-5-3-8-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1">2016 to 2020</flowPara><flowPara
-         id="flowPara3945-3-1-1-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.70758247px;line-height:125%;font-family:'Futura LT';-inkscape-font-specification:'Futura LT';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#2c3e50;fill-opacity:1"> </flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="128.56107"
-       y="523.18829"
-       id="text4952"><tspan
-         sodipodi:role="line"
-         id="tspan4954"
-         x="128.56107"
-         y="523.18829"
-         style="font-size:40px;line-height:1.25"> </tspan></text>
-    <g
-       id="g162"
-       transform="matrix(2.9236686,0,0,2.9892059,2.1804493,-107.24551)">
-      <path
-         id="Fill-1"
-         d="m 143.55794,206.92675 c -0.26923,-0.20437 -0.59461,-0.29258 -0.91215,-0.37861 l -0.0353,-0.009 c -0.32918,-0.0924 -0.52377,-0.17809 -0.65095,-0.28672 -0.12904,-0.11074 -0.19148,-0.25722 -0.202,-0.47434 -0.004,-0.0994 0.009,-0.19485 0.041,-0.28337 0.0317,-0.0874 0.0797,-0.16533 0.14268,-0.23157 0.0705,-0.0746 0.15911,-0.13334 0.26257,-0.1743 0.10782,-0.0423 0.22821,-0.0637 0.36124,-0.0637 0.10856,-0.004 0.21924,0.0139 0.32003,0.0504 0.0932,0.034 0.17348,0.0835 0.23841,0.14729 0.0619,0.0615 0.11112,0.13807 0.14548,0.22764 0.0361,0.0944 0.0552,0.20269 0.0569,0.32215 l 0.004,0.21177 h 0.61428 l -0.003,-0.21874 c -0.007,-0.39062 -0.14187,-0.72484 -0.39119,-0.96625 -0.24675,-0.23935 -0.58843,-0.36852 -0.99039,-0.37412 -0.36721,0 -0.70866,0.11585 -0.96175,0.32625 -0.29707,0.24744 -0.45419,0.60657 -0.45419,1.04219 0.0141,0.41919 0.15152,0.71874 0.43276,0.94197 0.25037,0.20013 0.59624,0.31087 0.93568,0.40892 0.35371,0.0782 0.58689,0.18307 0.73394,0.33017 0.13582,0.13608 0.20211,0.31978 0.2091,0.57699 l 5.2e-4,0.0306 c 0,0.12108 -0.0211,0.23605 -0.0631,0.34188 -0.041,0.10458 -0.10153,0.19895 -0.17934,0.27969 -0.0808,0.083 -0.17704,0.14753 -0.28666,0.1921 -0.11305,0.0453 -0.23649,0.0682 -0.36671,0.0682 -0.28399,0 -0.52433,-0.0883 -0.69509,-0.25504 -0.16994,-0.1659 -0.26232,-0.40139 -0.26736,-0.68145 l -0.004,-0.2124 -0.60407,0.003 -0.0111,0.27271 c 0,0.18289 0.0324,0.35912 0.0966,0.52446 0.0647,0.16452 0.15992,0.3148 0.28342,0.44701 0.14679,0.15644 0.33367,0.28455 0.54071,0.37077 0.20486,0.085 0.43332,0.12997 0.66041,0.12997 0.21321,0 0.41913,-0.0408 0.6121,-0.12188 0.19235,-0.0815 0.36186,-0.19958 0.5041,-0.35072 0.13789,-0.14641 0.24197,-0.31542 0.30914,-0.50186 0.0675,-0.18619 0.0957,-0.38333 0.0842,-0.58564 -0.0252,-0.48325 -0.19267,-0.83565 -0.51132,-1.07674"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566" />
-      <polygon
-         transform="matrix(0.23399566,0,0,0.23399566,140.10195,201.22307)"
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
-         id="Fill-3"
-         mask="none"
-         points="5.6134802,3.4160427 4.5671828,0.17419668 3.5099781,3.4160427 0.087763418,3.4160427 2.8600659,5.4264342 1.8230795,8.66562 4.5599999,6.6645396 7.3144784,8.6728028 6.2644565,5.42404 9.0295762,3.4160427 " />
-      <path
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566"
-         inkscape:connector-curvature="0"
-         d="m 138.52032,208.46657 -1.60773,-4.04133 h -0.66707 l 0.17243,0.43712 c 0.0141,0.0359 0.45797,1.15966 0.89907,2.27393 l 0.84934,2.14594 -0.8865,2.02537 h 0.68475 l 2.77205,-6.44082 0.17791,-0.44154 h -0.6878 z"
-         id="Fill-6"
-         mask="none" />
-      <path
-         id="Fill-9"
-         d="m 132.42642,205.58518 c 0.22871,-0.20486 0.43693,-0.34069 0.65568,-0.42784 0.21707,-0.0866 0.4553,-0.12886 0.77059,-0.13272 0.35059,0 0.71089,0.10234 1.01455,0.28834 0.35333,0.21682 0.61515,0.53884 0.7564,0.93108 l 0.0509,0.14255 h 0.66141 l -0.10073,-0.28648 c -0.19602,-0.55782 -0.56155,-1.00789 -1.057,-1.30214 -0.40394,-0.24022 -0.88638,-0.37275 -1.35823,-0.37275 -0.70648,0 -1.35693,0.2625 -1.83152,0.73934 -0.47522,0.47627 -0.73704,1.12934 -0.73704,1.8383 0,0.65244 0.2424,1.29219 0.66489,1.75477 0.48126,0.52719 1.15443,0.80595 1.94581,0.80595 0.52962,0 1.0321,-0.15314 1.45316,-0.44273 0.42088,-0.29058 0.73586,-0.70137 0.91078,-1.18772 l 0.10409,-0.28841 h -0.6667 l -0.0492,0.14567 c -0.10078,0.29338 -0.32065,0.58116 -0.60376,0.7897 -0.33534,0.24719 -0.74725,0.37991 -1.19053,0.38358 -0.25965,0 -0.51138,-0.0474 -0.74756,-0.14056 -0.23456,-0.0936 -0.44471,-0.22939 -0.62487,-0.40394 -0.18594,-0.17984 -0.33086,-0.39472 -0.43083,-0.638 -0.0996,-0.24383 -0.15015,-0.50883 -0.15015,-0.78696 0,-0.27054 0.0539,-0.54724 0.156,-0.80029 0.0999,-0.24881 0.23985,-0.45953 0.40388,-0.60874"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566" />
-      <path
-         id="Fill-11"
-         d="m 130.0284,204.42517 v 0.84324 c -0.13191,-0.14971 -0.28673,-0.2856 -0.45829,-0.40108 -0.42946,-0.28927 -0.93717,-0.4421 -1.46897,-0.4421 -0.97434,0 -1.57611,0.44652 -1.90927,0.82071 -0.41857,0.46843 -0.65867,1.10556 -0.65867,1.74829 0,0.64192 0.23985,1.27905 0.65811,1.74785 0.33341,0.37468 0.93549,0.8212 1.90983,0.8212 0.50516,0 0.9607,-0.12082 1.35375,-0.35918 0.21569,-0.13103 0.40749,-0.295 0.57351,-0.48928 v 0.84778 h 0.61515 v -5.13743 z m 0.002,2.89811 c -0.0203,0.12525 -0.0516,0.24327 -0.0941,0.35352 -0.1377,0.39112 -0.37835,0.71706 -0.69533,0.94197 -0.31785,0.22578 -0.70343,0.34486 -1.11452,0.34486 -0.60072,0 -1.10899,-0.21153 -1.46979,-0.61154 -0.31953,-0.35433 -0.50522,-0.84953 -0.50914,-1.35786 0,-0.54531 0.1982,-1.04524 0.55795,-1.40766 0.35949,-0.36242 0.85494,-0.56174 1.39545,-0.56174 0.4022,0 0.78578,0.11335 1.10892,0.32762 0.32146,0.21352 0.56517,0.51555 0.70617,0.8766 0.0448,0.10632 0.0791,0.22049 0.10246,0.33926 0.0233,0.11946 0.0352,0.2467 0.0352,0.38228 0.005,0.1227 -0.003,0.24794 -0.0233,0.37269 z"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566" />
-      <path
-         id="Fill-13"
-         d="m 124.34983,204.93411 c -0.16932,-0.16982 -0.37276,-0.29892 -0.60458,-0.38365 -0.4472,-0.16384 -1.05955,-0.17753 -1.56751,0.0368 -0.25429,0.10713 -0.47908,0.265 -0.65008,0.45542 -0.07,0.0768 -0.13128,0.15694 -0.18656,0.24359 -0.063,-0.11056 -0.11772,-0.19043 -0.16104,-0.23612 -0.16932,-0.20268 -0.38496,-0.35986 -0.64143,-0.46706 -0.25124,-0.10464 -0.53161,-0.1578 -0.83414,-0.1578 -0.19124,0 -0.48412,0.0298 -0.79313,0.17168 -0.20256,0.0933 -0.38247,0.2208 -0.53703,0.3806 v -0.55241 h -0.61516 v 5.13743 h 0.61516 v -2.8851 c 0,-0.28087 0.0305,-0.51555 0.0935,-0.71737 0.0602,-0.19403 0.15263,-0.36042 0.28672,-0.51437 0.0972,-0.12749 0.23848,-0.2358 0.40836,-0.31293 0.17598,-0.0791 0.36254,-0.11771 0.53572,-0.108 0.24041,0.008 0.45113,0.0521 0.62649,0.13166 0.17019,0.0774 0.31287,0.18961 0.42305,0.33185 0.10383,0.13913 0.16658,0.26083 0.20984,0.40693 0.0536,0.17816 0.0786,0.39728 0.0786,0.68923 l -0.002,2.9781 h 0.61477 v -2.84252 c 0,-0.30646 0.01,-0.55091 0.0577,-0.74793 0.0423,-0.17399 0.11778,-0.3232 0.25323,-0.49912 0.11411,-0.1489 0.2734,-0.26475 0.47441,-0.34406 0.35918,-0.14249 0.7958,-0.12612 1.09006,-0.0184 0.14822,0.054 0.27564,0.13589 0.38028,0.24464 0.13185,0.13253 0.23232,0.30876 0.29868,0.5239 0.0708,0.22939 0.10663,0.51219 0.10663,0.84093 v 2.84252 h 0.61453 v -2.84252 c 0,-0.39498 -0.0466,-0.74407 -0.13825,-1.03746 -0.0962,-0.30701 -0.2437,-0.55894 -0.43717,-0.74849"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.23399566" />
-      <polygon
-         transform="matrix(0.23399566,0,0,0.23399566,108.41672,201.20158)"
-         points="30.179283,35.731949 25.77382,22.154025 37.292669,13.778059 23.056586,13.778059 18.666819,0.26611018 14.28184,13.778059 0,13.778059 11.569661,22.176371 7.1873425,35.692576 18.649261,27.329912 "
-         id="Fill-15"
-         style="fill:#e11a2b;fill-rule:evenodd;stroke:none;stroke-width:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="739.5675"
-       y="130.39539"
-       id="text1162"><tspan
-         sodipodi:role="line"
-         id="tspan1160"
-         x="739.5675"
-         y="165.78601" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3776"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion3778"><rect
-           id="rect3780"
-           width="209.43011"
-           height="108.65483"
-           x="45.618439"
-           y="831.99432" /></flowRegion><flowPara
-         id="flowPara3782" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="718.4538"
-       y="375.54941"
-       id="text4068"><tspan
-         sodipodi:role="line"
-         id="tspan4066"
-         x="718.4538"
-         y="410.94003" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1150"
-       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0,62.362183)"><flowRegion
-         id="flowRegion1152"><rect
-           id="rect1154"
-           width="27.565165"
-           height="197.6481"
-           x="24.046207"
-           y="452.18604" /></flowRegion><flowPara
-         id="flowPara1156">Developed and designed the presentation layer of Macys.com for marketing and sales initiative pages supporting a weekly release cycle. Cross-functional role that required strong verbal and written skills to deliver the final phase of the creative release process to the web. Ensured brand guidelines were delivered with pixel perfection for a number of external merchants including Apple and Fitbit. Fullstack role focused on performance, scalability, accessibility, and SEO.  Excelled in the position by removing tech debt and standardizing componentization of commonly used code patterns.    JavaScript Ninja using the weapons of HTML/CSS/JS to slice through the presentation tier for high traffic, consumer-facing applications while thinking about site speed, user experience, product strategy, and the health of the codebase. Battling large JavaScript applications with deep knowledge of casting browser assets spells to vanquish slow site speeds, AJAX bottlenecks, and sloppy stylings. Vigilant about the latest design and development trends from tablet, mobile, HTML5, CSS3, JavaScript evolution, responsive design, accessibility, site performance, progressive enhancement, semantic markup, and cross-browser development.    Wrangling 911 lookup data from unstructured to structured data by writing complex regular expressions. Writing DML SQL scripts to deploy system configurations. Manually syncing data and configurations from production to development environments using the BCP-utility of SQL Server and Redgate SQL Data (Compare). Assessing data to measure accuracy, integrity, completeness, usefulness, and freshness using C#, Python, and SQL Server combined with subject matter expertise (SME) of telco infrastructure, specifically the routing of 911 calls.        </flowPara><flowPara
-         id="flowPara1158" /><flowPara
-         id="flowPara1160" /><flowPara
-         id="flowPara1162" /><flowPara
-         id="flowPara1164" /><flowPara
-         id="flowPara1166" /><flowPara
-         id="flowPara1168" /><flowPara
-         id="flowPara1170" /><flowPara
-         id="flowPara1172" /><flowPara
-         id="flowPara1174" /><flowPara
-         id="flowPara1176" /><flowPara
-         id="flowPara1178" /><flowPara
-         id="flowPara1180" /><flowPara
-         id="flowPara1182" /><flowPara
-         id="flowPara1184" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1186"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(26.978672,88.754363)"><flowRegion
-         id="flowRegion1188"><rect
-           id="rect1190"
-           width="665.66937"
-           height="378.87442"
-           x="19.940758"
-           y="435.76422" /></flowRegion><flowPara
-         id="flowPara1194"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">Developed and designed the presentation layer of Macys.com for marketing and sales initiative pages supporting a weekly release cycle. Cross-functional role that required strong verbal and written skills to deliver the final phase of the creative release process to the web. Ensured brand guidelines were delivered with pixel perfection for a number of external merchants including Apple and Fitbit. Fullstack role focused on performance, scalability, accessibility, and SEO.  Excelled in the position by removing tech debt and standardizing componentization of commonly used code patterns. </flowPara><flowPara
-         id="flowPara1196"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'" /><flowPara
-         id="flowPara1198"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
-         id="flowPara1200"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">JavaScript Ninja using the weapons of HTML/CSS/JS to slice through the presentation tier for high traffic, consumer-facing applications while thinking about site speed, user experience, product strategy, and the health of the codebase. Battling large JavaScript applications with deep knowledge of casting browser assets spells to vanquish slow site speeds, AJAX bottlenecks, and sloppy stylings. Vigilant about the latest design and development trends from tablet, mobile, HTML5, CSS3, JavaScript evolution, responsive design, accessibility, site performance, progressive enhancement, semantic markup, and cross-browser development. </flowPara><flowPara
-         id="flowPara1206"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
-         id="flowPara1208"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
-         id="flowPara1210"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">Wrangling 911 lookup data from unstructured to structured data by writing complex regular expressions. Writing DML SQL scripts to deploy system configurations. Manually syncing data and configurations from production to development environments using the BCP-utility of SQL Server and Redgate SQL Data (Compare). Assessing data to measure accuracy, integrity, completeness, usefulness, and freshness using C#, Python, and SQL Server combined with subject matter expertise (SME) of telco infrastructure, specifically the routing of 911 calls.  </flowPara><flowPara
-         id="flowPara1212"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
-         id="flowPara1214"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
-         id="flowPara1216"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">   </flowPara><flowPara
-         id="flowPara1218"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'"> </flowPara><flowPara
-         id="flowPara1220"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-52.253849"
-       y="776.16327"
-       id="text1305"><tspan
-         sodipodi:role="line"
-         id="tspan1303"
-         x="-52.253849"
-         y="776.16327">=</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1311-9"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(252.65606,38.029077)"><flowRegion
-         id="flowRegion1313-1"><rect
-           id="rect1315-3"
-           width="212.51709"
-           height="122.99798"
-           x="44.789013"
-           y="822.45593" /></flowRegion><flowPara
-         id="flowPara1317-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">&quot;Evin and I have collaborated on multiple projects, she consistently delivers results that far exceed the expectations of the client. Whether there is a time crunch or a client that can’t reach a decision she ensures that all the options are made known and succulently explains the risks versus the benefits.&quot;</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1311-1"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(491.58022,38.029077)"><flowRegion
-         id="flowRegion1313-5"><rect
-           id="rect1315-2"
-           width="180.95723"
-           height="136.87256"
-           x="44.789013"
-           y="822.45593" /></flowRegion><flowPara
-         id="flowPara1317-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Garamond Premier Pro';-inkscape-font-specification:'Garamond Premier Pro'">&quot;Evin takes immense ownership and accountability - solving problems, collaborating with external teams, taking a problem to a solution. She has been a mentor the rest of the team and has nurtured her Technical and so skills to effectively solve a challenge.&quot;</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="360.69312"
-       y="1058.2272"
-       id="text1391"><tspan
-         sodipodi:role="line"
-         id="tspan1389"
-         x="360.69312"
-         y="1058.2272">--</tspan></text>
   </g>
 </svg>
